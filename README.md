@@ -4,7 +4,7 @@
 ## Introduction
 > Mathematics is the root for Computer Science and there are still syllabus and tutorial focusing only only on the programmatic part of the Computer Science. 
 
-*Mathematics are the notes for the music of the Computer Science. You can even play music without knowing the notes, but then you are not a musician.
+*Mathematics are the notes for the music of the Computer Science. You can even play music without knowing the notes, but then you are not a musician.*
 
 This Repository contains all the necessary mathematical model, proofs, algorithms, principles, concepts,.. and so on from basic to advanced. (Note: *Not only for Computer science perspective but for general one.*
 
